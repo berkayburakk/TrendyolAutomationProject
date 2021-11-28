@@ -1,4 +1,4 @@
-package steps;
+package UITestScenarios;
 
 import base.BaseTest;
 import jdk.jfr.Description;
