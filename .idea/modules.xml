@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/TrendyolAutomationProject/TrendyolAPICore/TrendyolAPICore.iml" filepath="$PROJECT_DIR$/TrendyolAutomationProject/TrendyolAPICore/TrendyolAPICore.iml" />
+      <module fileurl="file://$PROJECT_DIR$/TrendyolAutomationProject/TrendyolAutomationProject.iml" filepath="$PROJECT_DIR$/TrendyolAutomationProject/TrendyolAutomationProject.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/TrendyolTestAutomationProject.iml" filepath="$PROJECT_DIR$/.idea/TrendyolTestAutomationProject.iml" />
+      <module fileurl="file://$PROJECT_DIR$/TrendyolAutomationProject/TrendyolUICore/TrendyolUICore.iml" filepath="$PROJECT_DIR$/TrendyolAutomationProject/TrendyolUICore/TrendyolUICore.iml" />
+    </modules>
+  </component>
+</project>

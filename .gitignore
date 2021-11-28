@@ -1,0 +1,4 @@
+# Project exclude paths
+/TrendyolAutomationProject/target/
+/TrendyolAutomationProject/TrendyolAPICore/target/
+/TrendyolAutomationProject/TrendyolUICore/target/
